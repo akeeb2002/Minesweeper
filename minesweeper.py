@@ -5,7 +5,6 @@ import random
 import re
 
 
-
 class Board:
     def __init__(self, dim_size, num_bombs):
         # keeps track of these parameters
